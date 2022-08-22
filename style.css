@@ -1,0 +1,12 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+}
+.green{
+    background: rgba(197, 117, 117, 0.555);
+    Height:550px;
+}
+.blue{
+    background-color:green;
+    color:white;
+}
